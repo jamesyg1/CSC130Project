@@ -8,7 +8,7 @@ public class Item {
 	
 	
 	/*  Constructor  */
-	public Item(String name, int count, double orice) {
+	public Item(String name, int count, double price) {
 		this.name = name;
 		this.count = count;
 		this.price = price;
