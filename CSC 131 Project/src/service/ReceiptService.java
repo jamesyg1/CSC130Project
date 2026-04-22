@@ -59,4 +59,4 @@ public class ReceiptService {
     public List<Receipt> getAllReceipts() {
         return receipts;
     }
-}
+} 
